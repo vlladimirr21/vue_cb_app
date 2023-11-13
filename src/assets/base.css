@@ -1,0 +1,22 @@
+/* для глоб стилей через переменные */
+:root {
+  --primary-color: black;
+  --font-size: 16px;
+}
+
+/* 
+*, //все элементы
+*::before, // все псевдоэлементы 
+*::after, //все псевдоэлементы 
+
+*/
+/* *,
+*::before,
+*::after {
+  display: flex;
+  margin: 0;
+}
+
+body {
+  padding: 0;
+} */
